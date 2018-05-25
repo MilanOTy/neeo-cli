@@ -1,0 +1,19 @@
+{
+  "name": "neeo-cli",
+  "version": "0.0.1",
+  "bin": {
+    "neeo": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shepless (http://shepless.github.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "inquirer": "^5.2.0",
+    "replace-in-file": "^3.4.0",
+    "shelljs": "^0.8.2"
+  }
+}
